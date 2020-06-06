@@ -4,7 +4,7 @@ Simple Script DDOS Attack
 Script ini hanya untuk pembelajaran dan mengetes sebuah server.
 kami tidak bertanggung jawab atas tindakan yg anda lakukan jika tercyduk oleh police cyber :v
 
-# GUNAKAN DENGAN BIJAK YA NJENG !!
+GUNAKAN DENGAN BIJAK YA NJENG !!
 
 How to run :
 
