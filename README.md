@@ -8,20 +8,20 @@ GUNAKAN DENGAN BIJAK YA NJENG !!
 
 How to run :
 
-$ pkg update && pkg upgrade
+# $ pkg update && pkg upgrade
 
-$ pkg install git
+# $ pkg install git
 
-$ pkg install python2
+# $ pkg install python2
 
-$ git clone https://github.com/tnxzack7/memekdos
+# $ git clone https://github.com/tnxzack7/memekdos.git
 
-$ ls
+# $ ls
 
-$ cd memekdos
+# $ cd memekdos
 
-$ ls
+# $ ls
 
-$ python2 CESDDOS.py
+# $ python2 CESDDOS.py
 
-done!!!
+Done!!!
