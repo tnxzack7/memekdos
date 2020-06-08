@@ -22,6 +22,8 @@ How to run :
 
 # $ ls
 
+# $ chmod 777 CESDDOS.py
+
 # $ python2 CESDDOS.py
 
 Done!!!
